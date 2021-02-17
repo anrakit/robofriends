@@ -31,7 +31,7 @@ export const robots = [
     },
     {
       id: 6,
-      name: 'Andi Baumeister',
+      name: 'Andy Angry',
       username: 'J.P.',
       email: 'Andi@toxic4life.com'
     },
@@ -43,9 +43,9 @@ export const robots = [
     },
     {
       id: 8,
-      name: 'Nici Knobi',
+      name: 'Nici Korea',
       username: 'Shallow',
-      email: 'knobi@wankenobi.com'
+      email: 'Nici@Kenai.com'
     },
     {
       id: 9,
