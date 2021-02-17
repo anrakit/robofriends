@@ -43,9 +43,9 @@ export const robots = [
     },
     {
       id: 8,
-      name: 'Nicole Koch',
+      name: 'Nici Knobi',
       username: 'Shallow',
-      email: 'Nicole@Tiltmaster.com'
+      email: 'knobi@wankenobi.com'
     },
     {
       id: 9,
